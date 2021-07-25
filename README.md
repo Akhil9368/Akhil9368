@@ -6,7 +6,7 @@ I am a tech enthusiast who enjoys connecting the dots: be it ideas from differen
 
 
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working as a student at **Dit University, Dehradun.**
 - 🌱 I’m currently learning  *Web development* and basically in *Frontend Development*.
