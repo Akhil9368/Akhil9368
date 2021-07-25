@@ -1,16 +1,17 @@
-### Hi there 👋
+![image](https://user-images.githubusercontent.com/85015174/126903133-869c7a45-8eb5-4ced-88fe-97275345a69e.png)
 
-<!--
-**Akhil9368/Akhil9368** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a tech enthusiast who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have an academic background in B.tech in Computer science and engineering and technical skill in Frontened web development,video editing,canvas.
+
+### Hi there 👋 My Name is Akhil Soni
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a student at **Dit University, Dehradun.**
+- 🌱 I’m currently learning  *Web development* and basically in *Frontend Development*.
+- 👯 I’m looking to collaborate on **Frontend projects**. 
+
+
+- 📫 How to reach me: akhilsoni648@gmail.com
+
